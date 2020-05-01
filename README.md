@@ -1,4 +1,4 @@
-# borrame-vuetify
+# Vuetify Admin Dashboard 
 
 ## Project setup
 ```
